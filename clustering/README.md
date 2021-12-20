@@ -1,2 +1,1 @@
-# K8S Study
-The first study for K8S
+# How can we cluster the nodes with k8s
